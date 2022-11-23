@@ -724,9 +724,7 @@ h3 {
     overflow-x: hidden;
     position: relative;
   }
-  .bloc {
-    padding-right: ;
-  }
+ 
   .bloc-group,
   .bloc-group .bloc {
     display: block;
