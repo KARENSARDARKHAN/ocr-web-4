@@ -1,4 +1,4 @@
-Projet :Optimiser un site web existant en réalisant une analyse SEO dans le cadre de la formation Developpeur Web d'OPENCLASSROOMS.
+Projet :Optimiser un site web en réalisant une analyse SEO dans le cadre de la formation Developpeur Web d'OPENCLASSROOMS.
 
 Objectifs :
 Réaliser une recherche des bonnes pratiques en développement web
